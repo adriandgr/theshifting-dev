@@ -9,6 +9,9 @@ toc: false
 image:
   teaser: saville-preview.jpg
   feature: saville-feature.jpg
+  shadowbox: true
+  original: saville.jpg
+  title:
   credit: Gagosian Gallery
   creditlink: http://www.gagosian.com/
 comments: true

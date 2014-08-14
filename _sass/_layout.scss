@@ -282,7 +282,7 @@
 	}
 }
 // make image flush with edges on small screens
-.page-image {	
+.page-image {
 	position: relative;
 	margin-left: -1 * $gutter;
 	margin-right: -1 * $gutter;
@@ -303,10 +303,26 @@
 			color: $white;
 			text-decoration: none;
 		}
+		.image-sb {
+			position: absolute;
+			top: 0;
+			right: 0;
+			margin: 0 auto;
+			padding: 10px 15px;
+			background-color: rgba($black,.5);
+			color: $white;
+			font-family: $alt-font;
+			@include font-size(12,no);
+			text-align: right;
+			z-index: 10;
+			a {
+				color: $white;
+				text-decoration: none;
+			}
 	}
 }
 // breadcrumbs
-.breadcrumbs { 
+.breadcrumbs {
 	@include row;
 	margin-top: $gutter;
 	@include font-size(10,no);
