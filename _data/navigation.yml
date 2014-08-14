@@ -5,14 +5,14 @@
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Learning Articles
   url: /articles/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
 - title: Writing
   url: /writing/
-  excerpt: "Our Blog"
+  excerpt: "The home to our various texts"
   image: 400x250.gif
 
 - title: Media
@@ -22,5 +22,5 @@
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "Learn about The Shifting"
   image: 400x250.gif
