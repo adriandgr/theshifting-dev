@@ -8,7 +8,7 @@ toc: true
 image:
   teaser: saville-preview.jpg
   feature: saville-feature.jpg
-  credit: Photo Mike Bruce. Courtesy Gagosian Gallery
+  credit: Gagosian Gallery
   creditlink: http://www.gagosian.com/
 comments: true
 ---
