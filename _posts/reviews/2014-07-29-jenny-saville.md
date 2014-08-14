@@ -7,7 +7,7 @@ tags: [review]
 toc: true
 image:
   teaser: saville-preview.jpg
-  feature: 1600x800.gif
+  feature: saville-feature.jpg
 comments: true
 ---
 
