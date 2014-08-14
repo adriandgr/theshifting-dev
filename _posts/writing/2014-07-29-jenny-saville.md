@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Jenny Saville at the Gagosian Britannia"
-categories: reviews
+categories: writing
 modified: 2014-07-29T15:00:36.923000-04:00
 tags: [review]
 toc: true
