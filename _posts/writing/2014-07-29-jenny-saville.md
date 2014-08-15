@@ -11,7 +11,7 @@ image:
   feature: saville-feature.jpg
   shadowbox: true
   original: saville.jpg
-  title: "Oxyrhynchus, 2012 – 2014"
+  title: "Jenny Saville: Oxyrhynchus, 2012 – 2014. Pastel and charcoal on canvas."
   credit: Gagosian Gallery
   creditlink: http://www.gagosian.com/
 comments: true
