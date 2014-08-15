@@ -31,7 +31,7 @@ The extended life of Saville’s work demonstrates itself well in one of the exh
 It is the paradoxical nature of the composition which prevents the instantaneity of the painting. Rather than baulking at the monstrosity of the human form, as in the work of Willem de Kooning (to whom much of Oxyrhynchus owes itself in its messiness), Saville treats it with a degree of tenderness. Yet she is uncomfortable with allowing it to abide; rather, one experiences the form via a passage of indistinct visual gestures, variously realized in lurid oil and brash charcoal meanderings, which concatenate into an imperfect whole. The sense in which this passage of gestures must be experienced as a passage of time is compounded by the size of the painting – one must physically walk along it to appreciate it in its entirety.
 
 <figure>
-  <a href=""><img src="{{site.url}}/images/odalisque-teaser.jpg"></a>
+  <a href="{{site.url}}/images/odalisque.jpg" rel="shadowbox" title="Odalisque"><img src="{{site.url}}/images/odalisque-teaser.jpg"></a>
   <figcaption>Odalisque</figcaption>
 </figure>
 
