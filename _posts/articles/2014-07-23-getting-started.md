@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Getting Started with Skinny Bones"
-date: 2014-06-25T13:57:25-04:00
+date: 2014-07-23T13:57:25-04:00
 modified:
 excerpt:
 tags: []
@@ -31,7 +31,7 @@ If you want to use Skinny Bones with an existing Jekyll site follow these steps:
 3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), [Bourbon](http://bourbon.io), etc)
 4. Add all of your existing posts, pages, and any other content you want to move over.
 5. Update posts and pages YAML to match names used by Skinny Bones. Full details below.
-6. Update `config.yml`, add navigation links. Full details below. 
+6. Update `config.yml`, add navigation links. Full details below.
 
 ---
 
@@ -52,14 +52,14 @@ skinny-bones-jekyll-master
 |    └── media.html                     # portfolio, work, media layout
 ├── _posts                              # posts grouped by category for sanity
 ├── _sass
-|   ├── vendor                          
-|   |   ├── bourbon                     # Bourbon mixin library   
+|   ├── vendor
+|   |   ├── bourbon                     # Bourbon mixin library
 |   |   └── neat                        # Neat grid library
 |   ├── _animations.scss                # CSS3 animations
 |   ├── _badges.scss                    # small badges
 |   ├── _bullets.scss                   # visual bullets
 |   ├── _buttons.scss                   # buttons
-|   ├── _grid-settings.scss             # Neat settings         
+|   ├── _grid-settings.scss             # Neat settings
 |   ├── _helpers.scss                   # site wide helper classes
 |   ├── _layout.scss                    # structure and placement, the bulk of the design
 |   ├── _mixins.scss                    # custom mixins
@@ -128,7 +128,7 @@ Examples:
 url: http://mmistakes.github.io/skinny-bones-jekyll
 url: http://localhost:4000
 url: http://mademistakes.com
-url: 
+url:
 {% endhighlight %}
 
 ### Navigation Links
@@ -173,7 +173,7 @@ The only YAML required is `title` and `layout`. It's a good idea to add a custom
 2. image YAML for featured images, teasers, and square thumbnails
 3. Table of Contents conditional
 4. Ads conditional (Google Responsive Ads `_includes/advertising.html`)
-5. Disqus comments conditional 
+5. Disqus comments conditional
 
 ### Pages
 
@@ -242,6 +242,6 @@ This will create a page at `/about/index.md`
 
 ## Contributing
 
-Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/skinny-bones-jekyll/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests. 
+Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/skinny-bones-jekyll/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests.
 
 Skinny Bones was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear I favor the simple over the complex.
