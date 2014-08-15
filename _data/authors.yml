@@ -5,7 +5,7 @@ adrian:
   web: http://www.adriandiaz.ca
   email: web.art@adriandiaz.ca
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/adrian.jpg
+  avatar: adrian.jpg
   twitter: adgr72
   google:
     plus: +BillyRick
@@ -14,14 +14,14 @@ andy:
   name: Andrew Keech
   email: w.andrew.keech@gmail.com
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/andy.jpg
+  avatar: andy.jpg
 
 cass:
   name: Cass Elliot
   web: http://www.adriandiaz.ca
   email: xcasselliott@hotmail.com
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/cass.jpg
+  avatar: cass.jpg
   twitter: adgr72
   google:
     plus: +BillyRick
@@ -31,7 +31,7 @@ paul:
   web: http://paulbucci.ca/
   email: hello@paulbucci.ca
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/paul.jpg
+  avatar: paul.jpg
   twitter: adgr72
   google:
     plus: +BillyRick
@@ -40,7 +40,7 @@ pauline:
   name: Pauline Petit
   email: pauline.petit.francois@gmail.com
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/pauline.jpg
+  avatar: pauline.jpg
   twitter: adgr72
   google:
     plus: +BillyRick
@@ -49,7 +49,7 @@ rhys:
   name: Rhys Edwards
   email: rhys_edwards@live.ca
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/rhys.jpg
+  avatar: rhys.jpg
   twitter: adgr72
   google:
     plus: +BillyRick
@@ -59,7 +59,7 @@ shifting:
   web: http://www.theshifting.ca
   email: info@theshifting.ca
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/shifting.jpg
+  avatar: shifting.jpg
   twitter: ShiftingCa
   google:
     plus: +BillyRick
@@ -69,7 +69,7 @@ warut:
   web: http://www.adriandiaz.ca
   email: warutb68@gmail.com
   bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
-  avatar: bio/warut.jpg
+  avatar: warut.jpg
   twitter: adgr72
   google:
     plus: +BillyRick
