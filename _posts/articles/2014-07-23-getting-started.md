@@ -3,7 +3,7 @@ layout: article
 title: "Getting Started with Skinny Bones"
 date: 2014-07-23T13:57:25-04:00
 modified:
-excerpt:
+excerpt: "TheShifting.ca uses a fork of Skinny Bones! Get to know the basics of this Jekyll theme."
 tags: []
 image:
   feature:
