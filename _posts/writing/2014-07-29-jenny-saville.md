@@ -31,8 +31,8 @@ The extended life of Saville’s work demonstrates itself well in one of the exh
 It is the paradoxical nature of the composition which prevents the instantaneity of the painting. Rather than baulking at the monstrosity of the human form, as in the work of Willem de Kooning (to whom much of Oxyrhynchus owes itself in its messiness), Saville treats it with a degree of tenderness. Yet she is uncomfortable with allowing it to abide; rather, one experiences the form via a passage of indistinct visual gestures, variously realized in lurid oil and brash charcoal meanderings, which concatenate into an imperfect whole. The sense in which this passage of gestures must be experienced as a passage of time is compounded by the size of the painting – one must physically walk along it to appreciate it in its entirety.
 
 <figure>
-  <a href="{{site.url}}/images/odalisque.jpg" rel="shadowbox" title="Odalisque"><img src="{{site.url}}/images/odalisque-teaser.jpg"></a>
-  <figcaption>Odalisque</figcaption>
+  <a href="{{site.url}}/images/odalisque.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas."><img src="{{site.url}}/images/odalisque-teaser.jpg"></a>
+  <figcaption>Jenny Saville: <br />Odalisque, 2012 – 2014. <br />Oil and charcoal on canvas. <br /> (detail)</figcaption>
 </figure>
 
 Thus, Saville evades the threat of immediacy. She is, of course, not the first painter to do so – her work is indebted largely to the legacy of Francis Bacon – but while others struggle to reconcile the differences between abstraction and figuration, Saville masterfully employs each to serve the purpose of the other.
