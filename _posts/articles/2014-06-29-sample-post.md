@@ -2,7 +2,7 @@
 layout: article
 title: "Sample Post I’ve Tested & Cool"
 categories: articles
-modified: 2014-05-13T15:00:36.923000-04:00
+modified: 2014-06-29T15:00:36.923000-04:00
 tags: [sample]
 toc: true
 comments: true
