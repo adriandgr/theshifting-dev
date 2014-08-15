@@ -7,10 +7,10 @@ modified: 2014-07-29T15:00:36.923000-04:00
 tags: [review]
 toc: false
 image:
-  teaser: saville-preview.jpg
-  feature: saville-feature.jpg
+  teaser: 2014/07/saville/saville-preview.jpg
+  feature: 2014/07/saville/saville-feature.jpg
   shadowbox: true
-  original: saville.jpg
+  original: 2014/07/saville/saville.jpg
   title: "Jenny Saville: Oxyrhynchus, 2012 – 2014. Pastel and charcoal on canvas."
   credit: Gagosian Gallery
   creditlink: http://www.gagosian.com/
@@ -26,12 +26,17 @@ Under the auspices of no less than five security guards, the latest in Saville�
 
 It is this cohesiveness which lies at the heart of that criticism mentioned above – that instantaneity. But crucially, for Saville, this cohesiveness is always delayed. One looks at a Saville painting and works to identify figures. They are always there, in the end, but they are obscured by their own posturing and self-awareness. They refuse to stay still, instead collapsing into a myriad of elements: arms, legs, breasts, hands and faces extrude, endlessly attempting to escape the form of the body, but always falling back into the mass of the body itself, which becomes gargantuan and all-encompassing in its many-faced repose.
 
+<figure>
+  <a href="http://upload.wikimedia.org/wikipedia/commons/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas."><img src="{{site.url}}/images/2014/07/saville/manet-teaser.jpg"></a>
+  <figcaption>Jenny Saville: <br />Odalisque, 2012 – 2014. <br />Oil and charcoal on canvas. <br /> (detail)</figcaption>
+</figure>
+
 The extended life of Saville’s work demonstrates itself well in one of the exhibition’s central works, Odalisque. One observes a multi-racial couple – possibly the artist and her partner, though this is unclear – lying together in front of a mirror. Though occupying a seemingly linear three-dimensional space, the couple’s repose is interrupted by its own hybridity. The man rests his left leg under the woman, while he gazes down upon her; yet, simultaneously, one observes him lying next to himself, this time pulling his partner’s distended leg over his chest, as if engaged in a ludic wrestling match. Crucially, the mirror reflects an oppositional composition, echoing Manet’s Bar at the Folies-Bergere - the woman, her back turned to the viewer, supports herself upright while the man reclines.
 
 It is the paradoxical nature of the composition which prevents the instantaneity of the painting. Rather than baulking at the monstrosity of the human form, as in the work of Willem de Kooning (to whom much of Oxyrhynchus owes itself in its messiness), Saville treats it with a degree of tenderness. Yet she is uncomfortable with allowing it to abide; rather, one experiences the form via a passage of indistinct visual gestures, variously realized in lurid oil and brash charcoal meanderings, which concatenate into an imperfect whole. The sense in which this passage of gestures must be experienced as a passage of time is compounded by the size of the painting – one must physically walk along it to appreciate it in its entirety.
 
 <figure>
-  <a href="{{site.url}}/images/odalisque.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas."><img src="{{site.url}}/images/odalisque-teaser.jpg"></a>
+  <a href="{{site.url}}/images/2014/07/saville/odalisque.jpg" rel="shadowbox" title="Jenny Saville: Odalisque, 2012 – 2014. Oil and charcoal on canvas."><img src="{{site.url}}/images/2014/07/saville/odalisque-teaser.jpg"></a>
   <figcaption>Jenny Saville: <br />Odalisque, 2012 – 2014. <br />Oil and charcoal on canvas. <br /> (detail)</figcaption>
 </figure>
 
