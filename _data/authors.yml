@@ -1,20 +1,75 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
+adrian:
+  name: Adrian Diaz
+  web: http://www.adriandiaz.ca
+  email: web.art@adriandiaz.ca
   bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo.jpg
-  twitter: extravagantman
+  avatar: bio/adrian.jpg
+  twitter: adgr72
   google:
     plus: +BillyRick
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+andy:
+  name: Andrew Keech
+  email: w.andrew.keech@gmail.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio/andy.jpg
+
+cass:
+  name: Cass Elliot
+  web: http://www.adriandiaz.ca
+  email: xcasselliott@hotmail.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio/cass.jpg
+  twitter: adgr72
   google:
-    plus: +CorneliusFiddlebone
+    plus: +BillyRick
+
+paul:
+  name: Paul Bucci
+  web: http://paulbucci.ca/
+  email: hello@paulbucci.ca
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio/paul.jpg
+  twitter: adgr72
+  google:
+    plus: +BillyRick
+
+pauline:
+  name: Pauline Petit
+  email: pauline.petit.francois@gmail.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio/pauline.jpg
+  twitter: adgr72
+  google:
+    plus: +BillyRick
+
+rhys:
+  name: Rhys Edwards
+  email: rhys_edwards@live.ca
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio/rhys.jpg
+  twitter: adgr72
+  google:
+    plus: +BillyRick
+
+shifting:
+  name: The Shifting
+  web: http://www.theshifting.ca
+  email: info@theshifting.ca
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio/shifting.jpg
+  twitter: ShiftingCa
+  google:
+    plus: +BillyRick
+
+warut:
+  name: Warut Boonyaleephun
+  web: http://www.adriandiaz.ca
+  email: warutb68@gmail.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio/warut.jpg
+  twitter: adgr72
+  google:
+    plus: +BillyRick
