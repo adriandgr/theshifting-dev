@@ -4,7 +4,7 @@ adrian:
   name: Adrian Diaz
   web: http://www.adriandiaz.ca
   email: web.art@adriandiaz.ca
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/adrian.jpg
   twitter: adgr72
   google:
@@ -13,14 +13,14 @@ adrian:
 andy:
   name: Andrew Keech
   email: w.andrew.keech@gmail.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/andy.jpg
 
 cass:
   name: Cass Elliot
   web: http://www.adriandiaz.ca
   email: xcasselliott@hotmail.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/cass.jpg
   twitter: adgr72
   google:
@@ -30,7 +30,7 @@ paul:
   name: Paul Bucci
   web: http://paulbucci.ca/
   email: hello@paulbucci.ca
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/paul.jpg
   twitter: adgr72
   google:
@@ -39,7 +39,7 @@ paul:
 pauline:
   name: Pauline Petit
   email: pauline.petit.francois@gmail.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/pauline.jpg
   twitter: adgr72
   google:
@@ -48,7 +48,7 @@ pauline:
 rhys:
   name: Rhys Edwards
   email: rhys_edwards@live.ca
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/rhys.jpg
   twitter: adgr72
   google:
@@ -58,7 +58,7 @@ shifting:
   name: The Shifting
   web: http://www.theshifting.ca
   email: info@theshifting.ca
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/shifting.jpg
   twitter: ShiftingCa
   google:
@@ -68,7 +68,7 @@ warut:
   name: Warut Boonyaleephun
   web: http://www.adriandiaz.ca
   email: warutb68@gmail.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim."
   avatar: bio/warut.jpg
   twitter: adgr72
   google:
