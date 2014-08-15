@@ -11,7 +11,7 @@ image:
   feature: saville-feature.jpg
   shadowbox: true
   original: saville.jpg
-  title:
+  title: "Oxyrhynchus, 2012 – 2014"
   credit: Gagosian Gallery
   creditlink: http://www.gagosian.com/
 comments: true
