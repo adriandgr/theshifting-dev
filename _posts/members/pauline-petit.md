@@ -51,3 +51,7 @@ n2m u?— AMS Art Gallery, University of British Columbia, Vancouver BC.
 Mirzaghitova, Zoya. "LoL ((Lots of Love)) at Skylight Gallery", review, Issue Magazine, September 2014, Vol. 3, p. 39.
 
 Marinate me, BFA/BA Visual Art Graduating Exhibition 2014 catalogue
+
+###Website
+
+paulinepetit.ca
