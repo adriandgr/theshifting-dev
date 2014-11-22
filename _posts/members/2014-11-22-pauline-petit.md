@@ -52,6 +52,11 @@ Mirzaghitova, Zoya. "LoL ((Lots of Love)) at Skylight Gallery", review, Issue Ma
 
 Marinate me, BFA/BA Visual Art Graduating Exhibition 2014 catalogue
 
+2013
+
+Nee Cho, Theo and Kevin Tsuan-Hsiang Day. "The Persistence of Process: Group Exhibition." Decoy Magazine. July 24, 2013, http://decoymagazine.ca/the-persistence-of-process-group-exhibition/
+
 ###Website
+--
 
 paulinepetit.ca
