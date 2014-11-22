@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
+title: "Members"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "We make stuff. We show stuff."
+excerpt: "Learn more about the individuals that make up The Shifting"
 tags: []
 image:
   feature:
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.media %}
+{% for post in site.categories.members %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
