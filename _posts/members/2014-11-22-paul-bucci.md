@@ -2,10 +2,12 @@
 layout: article
 title: "Paul Bucci"
 excerpt: "Multi-media artist'"
+author: shifting
 categories: members
 tags: []
 toc: false
-image: false
+image: 
+	teaser: /bio/paul.jpg
 comments: false
 ---
 
@@ -13,48 +15,48 @@ comments: false
 
 ###Education
 ----------------------
-Bachelor of Science in Computer Science, University of British Columbia (ongoin)
+Bachelor of Science in Computer Science, University of British Columbia (ongoing)
 
-2012
+2012 <br>
 Bachelor of Arts in Visual Arts, University of British Columbia
 
 ###Shows
 ----------------------
-2014
-Douglas Coupland Works Harder Than You — Public art piece, the Shifting, Vancouver BC.
+2014 <br>
+Douglas Coupland Works Harder Than You — Public art piece, the Shifting, Vancouver BC. <br>
 Performance — The Kalama Collective, Studio East, Vancouver BC.
 
-2013
-Kinetica — Group show, AHVA Art Gallery, University of British Columbia, Vancouver BC.
-Processed — Group show, the Shifting, TAXI, Vancouver BC.
-Retouch — Performance, The Wise Hall, Vancouver BC.
+2013 <br>
+Kinetica — Group show, AHVA Art Gallery, University of British Columbia, Vancouver BC. <br>
+Processed — Group show, the Shifting, TAXI, Vancouver BC. <br>
+Retouch — Performance, The Wise Hall, Vancouver BC. <br>
 In a Celluloid Garden — Group performance art exhibition, AMS Art Gallery, University of British Columbia, Vancouver BC.
 
-2012
-Study for an Ethereal Delight — Installation, ICICS Building, University of British Columbia, Vancouver BC.
-CTRL — Solo exhibition, AMS Art Gallery, University of British Columbia, Vancouver BC.
-Interference — Installation, Frederick Laserre Building, University of British Columbia, Vancouver BC.
-Too Deep for You —  Group Exhibition, Dorothy Somerset Studios, University of British Columbia, Vancouver BC.
+2012 <br>
+Study for an Ethereal Delight — Installation, ICICS Building, University of British Columbia, Vancouver BC. <br>
+CTRL — Solo exhibition, AMS Art Gallery, University of British Columbia, Vancouver BC. <br>
+Interference — Installation, Frederick Laserre Building, University of British Columbia, Vancouver BC. <br>
+Too Deep for You —  Group Exhibition, Dorothy Somerset Studios, University of British Columbia, Vancouver BC. <br>
 Third Year Here — Group Exhibition, AHVA Library gallery, University of British Columbia, Vancouver BC.
 
-2010
-Mesh — Group Exhibition, Dorothy Somerset Studios, University of British Columbia, Vancouver BC.
+2010 <br>
+Mesh — Group Exhibition, Dorothy Somerset Studios, University of British Columbia, Vancouver BC. <br>
 Alex — Solo exhibition, AMS Art Gallery, University of British Columbia, Vancouver BC.
 
-###Grants and Awards
+###Grants and Awards 
 ----------------------
-2013
+2013 <br>
 Innovative Projects Fund
 
-2009
+2009 <br>
 John H. Macdonald Journalism Award in Design/Layout
 
 ###Collections
 ----------------------
-2012
+2012 <br>
 Private Collection, Vancouver BC
 
-2011
+2011 <br>
 UBC Print Research Centre Permanent Collection, Vancouver BC
 
 ###Website

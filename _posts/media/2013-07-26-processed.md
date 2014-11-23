@@ -9,7 +9,6 @@ image:
   feature:processed/07.jpg
   teaser:processed/26.jpg
    shadowbox: true
-    title: "Douglas Coupland Works Harder Than You", 2014, poster series
   thumb:
 ads: false  
 comments: true
