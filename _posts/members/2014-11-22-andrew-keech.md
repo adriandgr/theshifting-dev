@@ -2,12 +2,11 @@
 layout: article
 title: "Andrew Keech"
 excerpt: "Photographer"
-author: shifting
 categories: members
 tags: []
 toc: false
 image: 
-	teaser: /bio/andy.jpg
+	teaser:bio/andy.jpg
 comments: false
 ---
 

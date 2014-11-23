@@ -2,12 +2,11 @@
 layout: article
 title: "Pauline Petit"
 excerpt: "Multi-media artist"
-author: shifting
 categories: members
 tags: []
 toc: false
 image: 
-	teaser: /bio/pauline.jpg
+	teaser:bio/pauline.jpg
 comments: false
 ---
 

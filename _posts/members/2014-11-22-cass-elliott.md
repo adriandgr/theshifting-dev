@@ -2,12 +2,11 @@
 layout: article
 title: "Cass Elliott"
 excerpt: "Painter"
-author: shifting
 categories: members
 tags: []
 toc: false
 image: 
-	teaser: /bio/cass.jpg
+	teaser:bio/cass.jpg
 comments: false
 ---
 

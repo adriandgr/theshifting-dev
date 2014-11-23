@@ -2,12 +2,11 @@
 layout: article
 title: "Warut Boonyaleephun"
 excerpt: "Multi-media artist'"
-author: shifting
 categories: members
 tags: []
 toc: false
 image: 
-	teaser: /bio/warut.jpg
+	teaser:bio/warut.jpg
 comments: false
 ---
 

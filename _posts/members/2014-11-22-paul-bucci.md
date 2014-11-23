@@ -2,12 +2,11 @@
 layout: article
 title: "Paul Bucci"
 excerpt: "Multi-media artist'"
-author: shifting
 categories: members
 tags: []
 toc: false
 image: 
-	teaser: /bio/paul.jpg
+	teaser:bio/paul.jpg
 comments: false
 ---
 

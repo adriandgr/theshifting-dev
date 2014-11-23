@@ -2,12 +2,11 @@
 layout: article
 title: "Rhys L.O. Edwards"
 excerpt: "Painter and writer'"
-author: shifting
 categories: members
 tags: []
 toc: false
 image: 
-	teaser: /bio/rhys.jpg
+	teaser:bio/rhys.jpg
 comments: false
 ---
 
