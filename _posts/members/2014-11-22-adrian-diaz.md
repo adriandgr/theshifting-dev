@@ -6,7 +6,7 @@ categories: members
 tags: []
 toc: false
 image: 
-	teaser:bio/adrian.jpg
+	teaser: bio/adrian.jpg
 comments: false
 ---
 
