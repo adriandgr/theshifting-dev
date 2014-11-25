@@ -6,7 +6,6 @@ categories: members
 tags: []
 toc: false
 image: 
-	teaser:bio/andy.jpg
 comments: false
 ---
 
