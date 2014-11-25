@@ -4,23 +4,3 @@ permalink: /
 image:
   feature: vancouver.jpg
 ---
-
-<div class="tiles">
-
-<div class="tile">
-
-</div><!-- /.tile -->
-
-<div class="tile">
-  
-</div><!-- /.tile -->
-
-<div class="tile">
- 
-</div><!-- /.tile -->
-
-<div class="tile">
-  
-</div><!-- /.tile -->
-
-</div><!-- /.tiles -->
