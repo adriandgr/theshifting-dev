@@ -6,7 +6,7 @@ categories: members
 tags: []
 toc: false
 image: 
-	teaser: bio/cass.jpg
+	teaser: 2014/11/members//cass.jpg
 comments: false
 ---
 

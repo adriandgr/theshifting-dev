@@ -6,7 +6,7 @@ categories: members
 tags: []
 toc: false
 image: 
-	teaser: bio/pauline.jpg
+	teaser: 2014/11/members//pauline.jpg
 comments: false
 ---
 

@@ -6,7 +6,7 @@ categories: members
 tags: []
 toc: false
 image: 
-	teaser: bio/warut.jpg
+	teaser: 2014/11/members//warut.jpg
 comments: false
 ---
 

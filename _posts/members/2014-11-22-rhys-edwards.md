@@ -6,7 +6,7 @@ categories: members
 tags: []
 toc: false
 image: 
-	teaser: bio/rhys.jpg
+	teaser: 2014/11/members//rhys.jpg
 comments: false
 ---
 

@@ -6,8 +6,8 @@ categories: media
 excerpt: "The second installment of our three-exhibits series."
 tags: []
 image:
-  feature: processed/07.jpg
-  teaser: processed/26.jpg
+  feature: 2014/11/processed/07.jpg
+  teaser: 2014/11/processed/26.jpg
    shadowbox: true
 ads: false  
 comments: true
@@ -16,115 +16,115 @@ comments: true
 <ul class="th-grid-full">
 
  <li>
-   <img src="{{site.url}}/images/processed/01.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/01.jpg" alt="">
   </li>
   
    <li>
-   <img src="{{site.url}}/images/processed/02.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/02.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/03.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/03.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/04.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/04.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/05.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/05.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/06.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/06.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/07.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/07.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/08.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/08.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/09.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/09.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/10.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/10.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/11.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/11.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/12.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/12.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/13.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/13.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/14.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/14.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/15.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/15.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/16.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/16.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/17.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/17.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/18.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/18.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/19.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/19.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/20.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/20.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/21.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/21.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/22.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/22.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/23.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/23.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/24.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/24.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/25.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/25.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/26.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/26.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/27.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/27.jpg" alt="">
   </li>
 
  <li>
-   <img src="{{site.url}}/images/processed/28.jpg" alt="">
+   <img src="{{site.url}}/images/2014/11/processed/28.jpg" alt="">
   </li>
 
 </ul>
