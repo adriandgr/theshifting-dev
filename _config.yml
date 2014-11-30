@@ -25,8 +25,10 @@ owner:
   web: http://www.theshifting.ca
   email: info@theshifting.ca
   twitter: ShiftingCa
-  bio: "Hello. We are emerging artists. We shift around Vancouver."
-  avatar: bio/shifting.png # 160x160 px image for author byline
+  bio: "Just another boring, tattooed, time traveling designer."
+  avatar: bio/shifting.jpg # 160x160 px image for author byline
+  google:
+    plus: +MichaelRoseDesign
     ad-client: ca-pub-7328585512091257
     ad-slot: 3049671934
   disqus-shortname: theshifting
