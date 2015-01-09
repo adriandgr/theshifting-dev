@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: The Shifting
-description: "A Vancouver-based artist collective"
+description: Bah
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -10,8 +10,8 @@ url: http://www.theshifting.ca
 # Jekyll configuration
 
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: pygments
@@ -22,14 +22,14 @@ gems:
 # Site owner
 owner:
   name: The Shifting
-  web: http://www.theshifting.ca
-  email: info@theshifting.ca
-  twitter: ShiftingCa
+  email: someemail@later.com
+  twitter: someuser
+  google:
+    ad-client: 
+    ad-slot: 
   bio: "Hello. We are emerging artists. We shift around Vancouver."
   avatar: bio/shifting.png # 160x160 px image for author byline
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
-  disqus-shortname: theshifting
+disqus-shortname: theshifting
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
