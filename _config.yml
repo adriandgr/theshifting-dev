@@ -22,27 +22,14 @@ gems:
 # Site owner
 owner:
   name: The Shifting
-<<<<<<< HEAD
-  web: http://www.theshifting.ca
-  email: info@theshifting.ca
-  twitter: ShiftingCa
-  bio: "Just another boring, tattooed, time traveling designer."
-  avatar: bio/shifting.jpg # 160x160 px image for author byline
-  google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
-  disqus-shortname: theshifting
-=======
   email: someemail@later.com
   twitter: someuser
   google:
-    ad-client: 
-    ad-slot: 
+    ad-client:
+    ad-slot:
   bio: "Hello. We are emerging artists. We shift around Vancouver."
   avatar: bio/shifting.png # 160x160 px image for author byline
 disqus-shortname: theshifting
->>>>>>> f402a210ab893413a40f50839c6b1b7d6b9f0223
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
