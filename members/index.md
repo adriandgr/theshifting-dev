@@ -10,6 +10,8 @@ image:
   teaser:
 ---
 
-{% for cat in site.categories %}
-    <li>{{ cat[0] }}</li>
+<div class="tiles">
+{% for post in site.categories.members %}
+  {% include post-grid.html %}
 {% endfor %}
+</div><!-- /.tiles -->
