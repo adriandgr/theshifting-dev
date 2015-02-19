@@ -2,7 +2,7 @@
 layout: article
 title: "Adrian Diaz"
 excerpt: "One of the founders of the Shifting and multi-media artist"
-categories: members
+category: members
 tags: []
 toc: false
 image:
