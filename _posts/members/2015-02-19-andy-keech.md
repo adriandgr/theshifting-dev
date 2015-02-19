@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Adrian Diaz"
+title: "Andy Keech"
 categories: members
-excerpt: "One of the founders of The Shifting and multi-media artist"
+excerpt: "Photographer"
 tags: [profile]
 ---
 
