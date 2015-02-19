@@ -5,7 +5,7 @@ excerpt: "One of the founders of the Shifting and multi-media artist"
 categories: members
 tags: []
 toc: false
-image: 
+image:
 	teaser: 2014/11/members/adrian.jpg
 comments: false
 ---
@@ -13,11 +13,11 @@ comments: false
 ## CV
 
 ###Education
----
+
 Bachelor of Fine Arts Visual Arts, University of British Columbia (ongoing)
 
 ###Shows
----
+
 2014  
 LOL ((lots of love)) — Group Show, Skylight gallery, Vancouver BC.  
 Douglas Coupland Works Harder Than You — Public art piece, the Shifting, Vancouver BC.  
@@ -35,12 +35,10 @@ http://gallery.ahva.ubc.ca/2011/11/15/axis-of-light/
 
 
 ###Press
----
+
 2014  
 Marinate me, BFA/BA Visual Art Graduating Exhibition 2014 catalogue  
 
 2013  
 Edwards, Rhys. “How Architecture and Art Mingle on UBC Campus.” The Ubyssey. March 13, 2013, http://ubyssey.ca/culture/ubc-campus-architecture-and-art-882/.  
 Nee Cho, Theo and Kevin Tsuan-Hsiang Day. "The Persistence of Process: Group Exhibition." Decoy Magazine. July 24, 2013, http://decoymagazine.ca/the-persistence-of-process-group-exhibition/  
-
-
